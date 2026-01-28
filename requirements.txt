@@ -1,0 +1,15 @@
+# 本项目只需要系统安装的 ffmpeg 和 Python 3
+# 无需额外安装 Python 包
+
+# 系统依赖：
+# - ffmpeg (用于视频处理)
+# - python3 (运行脚本)
+
+# Termux 安装命令：
+# pkg install ffmpeg python
+
+# Ubuntu/Debian:
+# sudo apt install ffmpeg python3
+
+# macOS:
+# brew install ffmpeg python3
