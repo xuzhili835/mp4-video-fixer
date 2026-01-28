@@ -64,7 +64,7 @@ pkg update && pkg upgrade -y
 pkg install ffmpeg python -y
 
 # 2. 下载脚本到视频目录
-cd ~/storage/movies/Telegram  # 你的视频目录
+cd ~/storage/movies/xxx  # 你的视频目录
 # 下载脚本到这个目录（下面有详细方法）
 
 # 3. 运行修复
