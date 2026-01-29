@@ -44,3 +44,4 @@ vfix_/
 *.swp
 *.swo
 *~
+.claude/
