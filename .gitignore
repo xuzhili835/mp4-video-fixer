@@ -33,6 +33,11 @@ tmp/
 *.tmp
 vfix_/
 
+# 测试输出文件
+*输出.txt
+*输出.log
+*.log
+
 # 编辑器
 .vscode/
 .idea/
